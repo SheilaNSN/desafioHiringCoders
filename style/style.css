@@ -46,19 +46,12 @@ body{
   img{
     width: 60%;
   }
-  
-  a{
-    text-decoration: none;
-    color:  #99ffff;
-    font-weight: 700;
+    
+  .data{
+    color: #d0f862;
+    background: rgb(14, 9, 9);
   }
-  
- .principal a{
-    color: #fff;
-    text-decoration: underline;
-    font-weight: normal;
-  }
-  
+
   button{
    background: orangered;
    border: 1px solid transparent;
